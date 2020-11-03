@@ -144,6 +144,6 @@ hr {
     justify-content: center;
     align-items: center;
     align-content: center;
-     background-image: linear-gradient(to right, #7ed95780, #38b6ff80);
-     color: #737373;
+    background-image: linear-gradient(to right, #7ed95780, #38b6ff80);
+    color: #737373;
 }
