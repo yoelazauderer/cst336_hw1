@@ -33,14 +33,14 @@
             
         </div>
        
-       <br/> <br/>
+       <br> <br>
        
        <div id="content">
-            <p>This website will give you insight into three major programming languages: Java, C++, and Python. </br>
+            <p>This website will give you insight into three major programming languages: Java, C++, and Python. <br>
             Each page will provide a brief history, some advantages of the language, and how to get started.</p>
             <h2>Click on a language below to learn more!</h2>
             
-            </br></br>
+            <br><br>
             
             <div class="logos">
                 <a class="logos-item" href="java.html">
@@ -51,7 +51,7 @@
                     <img src="img/Python-Logo-1.png" alt="Python Logo" /></a>
             </div>
                
-            </br></br></br></br>
+            <br><br><br><br>
                
             <div id="references">
                <hr>
@@ -59,7 +59,7 @@
                <a class="reference-link" href="https://www.cleanpng.com/">https://www.cleanpng.com/</a>
                and
                <a class="reference-link" href="https://www.hiclipart.com/">https://www.hiclipart.com/</a>
-               </br>
+               <br>
            </div>
        
             <footer>
@@ -72,9 +72,9 @@
             
                     <div>
                         CST336 Internet Programming. 2020&copy; Zauderer
-                        <br/>
+                        <br>
                         <strong>Disclaimer:</strong> The information in this webpage is fictitious.
-                        <br/>
+                        <br>
                         It is used for academic purposes only.
                     </div>
             
